@@ -1,20 +1,19 @@
-👋 Greetings, I'm Jordan, and welcome to @ninetailstudio.
+🌟 Hello, I'm Jordan, and I'd like to extend a warm welcome to @ninetailstudio. 🌟
 
-💼 Experience Matters: My journey has been anything but traditional. From serving 8 years in the army, to loading trucks at UPS, to retail sales, every step has imparted valuable lessons. These diverse experiences, coupled with my exposure to various organizations, have honed my ability to understand how people operate, think, and function. This insight, more than just coding, equips me to identify the intricate pain points that hinder growth, and I possess the expertise to address them effectively. My time at UPS, transitioning from leading soldiers to civilians, even earned me the title of Supervisor of the Month.
+💼 Valuable Experience: My journey has been far from conventional. Over 8 years in the army, working at UPS, and engaging in retail sales, I've accumulated a wealth of diverse experiences. These varied roles, combined with exposure to different organizations, have sharpened my ability to comprehend human behavior and operation.
 
-🌐 One-Size-Fits-All Isn't the Answer: Along the way, I encountered generic, slow, and inefficient web platforms. Even with my technical know-how, I found them challenging. It's this firsthand understanding that led me to create @ninetailstudio.
+🚀 Streamlined Workflow Solutions: Along the way, I encountered generic, sluggish, and inefficient web platforms, even with my technical background. It's this firsthand understanding that drove me to establish @ninetailstudio, with the aim of offering:
 
-🚀 Tailored Solutions for Workflow Optimization: @ninetailstudio is built on the belief that every company deserves a web solution designed for them. No more hair-pulling over complex systems or juggling multiple platforms. My goal is to harness wisdom from diverse experiences to craft web solutions that work.
+🤝 Collaborative Success: I'm enthusiastic about collaborating with other businesses to optimize their workflow, boost sales, and enhance team experiences. I firmly believe that a contented team is a productive one. I offer my expertise to tackle complex issues with custom software solutions designed specifically for your company's requirements.
 
-💞 Collaboration for Success: I'm eager to collaborate with other businesses to optimize their workflow, increase sales, and enhance team experiences. Working from the belief that a happy team is a performant team, I provide expertise to solve complex problems with software solutions tailored to your company's specific needs.
+🌐 Customized Solutions: @ninetailstudio operates on the principle that each company deserves a tailor-made web solution. No more struggling with complex systems or juggling multiple platforms. My objective is to draw on the wisdom gained from diverse experiences to create functional web solutions.
 
-📫 Get in Touch: Join me as we explore the world of web solutions, one tailored experience at a time. Together, we'll optimize workflows and drive success.
+🔍 Pursuit of Excellence: In a world that often settles for one-size-fits-all solutions, I adhere to a different standard. My commitment to continuous learning and knowledge-sharing drives me to push boundaries.
 
-🏍 Passions Beyond Code: My life isn't all code. Dive into the world of art with me or join me on a motorcycle ride. These passions keep me grounded and fuel my creativity, adding a unique flair to every project.
+🏍 Beyond Code Passions: My life isn't solely focused on coding. Dive into the world of art with me or join me on a motorcycle ride. These passions keep me grounded and fuel my creativity, adding a unique touch to every project.
 
+🌐 Open Source Philosophy: I firmly believe in the true spirit of Open Source – the freedom to customize, use, and share code. This philosophy leads me to prefer the MIT license over the GNU. I believe that true freedom in the Open Source world should empower everyone without unintentional restrictions.
 
-🔍 Pursuing Excellence: In a world that often settles for one-size-fits-all, I'm driven by a different standard. My passion for continuous learning and sharing knowledge means I'm always pushing boundaries. While many are content with generic solutions, I aim for precision, excellence, and an unmatched attention to detail. The question is: do you want to blend into the crowd or be a standout?
+💡 Web Realities: The web, with all its quirks, holds immense power. While I may have a nostalgic fondness for the efficiency of a C++ program, I understand that businesses thrive through the web. My dedication lies in mastering this platform comprehensively, ensuring that every solution is not only functional but also grounded in solid knowledge. And yes, aesthetics matter; I make sure they look good too!
 
-🌐 Open Source Beliefs: My conviction lies in the genuine spirit of Open Source – the freedom to customize, use, and share code. This philosophy gravitates me towards the MIT license over the GNU. I believe true freedom in the Open Source world should empower everyone without unintentional restrictions.
-
-💡 Web Realities: The web, for all its quirks, holds immense power. I may have a nostalgic fondness for the efficiency of a C++ program, but I understand businesses thrive through the web. My dedication is to mastering this platform holistically, ensuring every solution is not only functional but rooted in concrete knowledge. And yes, aesthetics matter, so I ensure they look good too!
+📫 Let's Connect: Join me in exploring the realm of web solutions, one tailored experience at a time. Together, we'll enhance workflows and drive success.
